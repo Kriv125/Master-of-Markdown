@@ -1,5 +1,5 @@
 # 🎓 Příručka přežití zkouškového období
-![kral](images/gabe.webp)
+![kral](images/gaben.webp)
 
 > „Zkouškové období není sprint, ale maraton. Hlavní je přežít a nezbláznit se!“ 😄
 
