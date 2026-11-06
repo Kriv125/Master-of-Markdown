@@ -1,8 +1,8 @@
 # 🎓 Příručka přežití zkouškového období
 ![kral](images/gaben.webp)
 
-> „Zkouškové období není sprint, ale maraton. Hlavní je přežít a nezbláznit se!“😄
-<p><strong>Gabe Newell, možna</strong></p>
+> „Zkouškové období není sprint, ale maraton. Hlavní je přežít a nezbláznit se!“😄<br> <strong>Gabe Newell, možna</strong>
+
 
 Vítej v příručce, která ti pomůže zvládnout náročné období plné učení, kávy a nedostatku spánku.
 
