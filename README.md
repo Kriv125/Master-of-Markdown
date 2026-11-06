@@ -99,4 +99,4 @@ Dopřej si dostatek odpočinku, věř si a nevzdávej se.
 
 ---
 
-<p>Vytvořeno jako studentský projekt v Markdownu pro GitHub při použití AI.</p>
+<p>Vytvořeno jako studentský projekt v Markdownu pro GitHub při použití AI(Chat GPT).</p>
