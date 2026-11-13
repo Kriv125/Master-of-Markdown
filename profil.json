@@ -1,1 +1,17 @@
 
+{
+  "jmeno": "Krivchykov Maksym",
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "ulice": "U knezske louky",
+    "mesto": "Praha",
+    "psc": "13000"
+  },
+  "konicky": [
+    "pocitacove hry",
+    "volejbal"
+  ]
+}
+
