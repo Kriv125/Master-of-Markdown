@@ -1,5 +1,5 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Duna,Frank Herbert,1965,ano
-2,Malý princ,Antoine de Saint-Exupéry,1943,ano
-3,Revizor,Nikolaj Gogol,1836,ne
-4,1984,George Orwell,1949,ano
+id,nazev,autor,rok_vydani,dostupna,pocet_stran
+1,Duna,Frank Herbert,1965,ano,412
+2,Malý princ,Antoine de Saint-Exupéry,1943,ano,96
+3,Revizor,Nikolaj Gogol,1836,ne,205
+4,1984,George Orwell,1949,ano,328
